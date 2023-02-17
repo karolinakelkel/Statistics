@@ -1,5 +1,5 @@
 class Solution:
-    print('hello')
+    print('MEOW!!!')
 
 
 
